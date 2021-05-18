@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-## 编辑docker-compose.yml文件添加 - CUSTOM_SHELL_FILE=https://raw.githubusercontent.com/mixool/jd_sku/main/jd_diy.sh
+## 编辑docker-compose.yml文件添加 - CUSTOM_SHELL_FILE=https://raw.githubusercontent.com/qirenzhidao/ziyong/main/repo.sh
 ### CUSTOM_SHELL_FILE for https://gitee.com/lxk0301/jd_docker/tree/master/docker
 #### DIY脚本仅供参考,由于更新可能引入未知BUG,建议Fork后使用自己项目的raw地址
 
