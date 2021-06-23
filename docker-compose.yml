@@ -5,7 +5,7 @@ services:
     container_name: jd
     restart: always
     tty: true
-    network_mode: host
+    network_mode: bridge
     hostname: jd
     volumes:
       - ./config:/jd/config
