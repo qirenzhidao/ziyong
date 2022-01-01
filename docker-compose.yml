@@ -1,7 +1,7 @@
 version: '2'
 services:
   web:
-    image: luciferlemon/qinglong2.10.2:old
+    image: luciferlemon/qinglong:2.10.2
     volumes:
       - ./data/config:/ql/config
       - ./data/log:/ql/log
